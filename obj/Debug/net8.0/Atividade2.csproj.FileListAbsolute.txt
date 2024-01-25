@@ -1,0 +1,17 @@
+C:\Users\a842200\Desktop\Estudos\Pleno\C#\Atividade\Atividade2\obj\Debug\net8.0\Atividade2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a842200\Desktop\Estudos\Pleno\C#\Atividade\Atividade2\obj\Debug\net8.0\Atividade2.AssemblyInfoInputs.cache
+C:\Users\a842200\Desktop\Estudos\Pleno\C#\Atividade\Atividade2\obj\Debug\net8.0\Atividade2.AssemblyInfo.cs
+C:\Users\a842200\Desktop\Estudos\Pleno\C#\Atividade\Atividade2\obj\Debug\net8.0\Atividade2.csproj.CoreCompileInputs.cache
+C:\Users\a842200\Desktop\Estudos\Pleno\C#\Atividade\Atividade2\bin\Debug\net8.0\Atividade2.exe
+C:\Users\a842200\Desktop\Estudos\Pleno\C#\Atividade\Atividade2\bin\Debug\net8.0\Atividade2.deps.json
+C:\Users\a842200\Desktop\Estudos\Pleno\C#\Atividade\Atividade2\bin\Debug\net8.0\Atividade2.runtimeconfig.json
+C:\Users\a842200\Desktop\Estudos\Pleno\C#\Atividade\Atividade2\bin\Debug\net8.0\Atividade2.dll
+C:\Users\a842200\Desktop\Estudos\Pleno\C#\Atividade\Atividade2\bin\Debug\net8.0\Atividade2.pdb
+C:\Users\a842200\Desktop\Estudos\Pleno\C#\Atividade\Atividade2\bin\Debug\net8.0\Livraria.dll
+C:\Users\a842200\Desktop\Estudos\Pleno\C#\Atividade\Atividade2\obj\Debug\net8.0\Atividade2.csproj.AssemblyReference.cache
+C:\Users\a842200\Desktop\Estudos\Pleno\C#\Atividade\Atividade2\obj\Debug\net8.0\Atividade2.csproj.CopyComplete
+C:\Users\a842200\Desktop\Estudos\Pleno\C#\Atividade\Atividade2\obj\Debug\net8.0\Atividade2.dll
+C:\Users\a842200\Desktop\Estudos\Pleno\C#\Atividade\Atividade2\obj\Debug\net8.0\refint\Atividade2.dll
+C:\Users\a842200\Desktop\Estudos\Pleno\C#\Atividade\Atividade2\obj\Debug\net8.0\Atividade2.pdb
+C:\Users\a842200\Desktop\Estudos\Pleno\C#\Atividade\Atividade2\obj\Debug\net8.0\Atividade2.genruntimeconfig.cache
+C:\Users\a842200\Desktop\Estudos\Pleno\C#\Atividade\Atividade2\obj\Debug\net8.0\ref\Atividade2.dll
